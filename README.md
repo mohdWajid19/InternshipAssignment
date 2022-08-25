@@ -1,4 +1,5 @@
-# InternshipAssignment
+# Store User Id
+## form data to mongoDb using mongoose and nodejs along with uniqueness validation
 AGM group of institutes, Internship assignment
 
 run the following commands after installing node
